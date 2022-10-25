@@ -1,7 +1,8 @@
 
 # Hello Microverse
 
-    It is a simple html and css project.
+    This is a pull request. I:
+    * created branches with different base branches.
 
 ## Built With
 
