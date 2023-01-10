@@ -1,59 +1,158 @@
 
-# Hello Microverse
+# 📗 Table of Contents
 
-  This is a pull request. I:
-- created branches with different base branches.
-- Followed GitHub flow.
-- Added a descriptive and easy to understand README
-- Edited HTML file
-- Edited CSS file
-- Edited JavaScript file
-- Added form validation
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [HTML](#tech-stack)
+    - [CSS](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-## Built With
+# 📖 [Hello_Microverse] <a name="about-project"></a>
 
-   * Major languages
-   * Frameworks
-   * Technologies used
 
-## Live Demo (if available)
+**[Hello_Microverse]** is a simple project used to get to know with github and github flow.
 
-[Live Demo Link](https://livedemo.com/)
-## Getting Started
+## 🛠 Built With <a name="built-with"></a>
 
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+#### HTML <a name="tech-stack"></a>
 
-To get a local copy up and running follow these simple example steps.
+#### CSS <a name="key-features"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
 ### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
 ### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
 ### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
 ### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
 ### Deployment
-## Authors
 
-#### Author
+You can deploy this project using:
 
-   * **Github**: [@ezraermy](https://github.com/)
-   * **Twitter**: [@ezraermy](https://twitter.com/)
-   * **LinkedIn**: [Ezra Yehuwalashet](https://linkedin.com/)
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-## :handshake: Contributing
+## 👤 Author <a name="authors"></a>
+
+   - GitHub: [@ezraermy](https://github.com/)
+   - Twitter: [@ezraermy](https://twitter.com/)
+   - LinkedIn: [Ezra Yehuwalashet](https://linkedin.com/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/microverseinc/readme-template/issues).
-### Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐ if you like this project!
-### Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-    * Hat tip to anyone whose code was used
-    * Inspiration
-    * etc
+## ⭐️ Show your support <a name="support"></a>
 
-📝 License
 
-This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/LICENSE) licensed.
+If you like this project show your support
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank microverse teams
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
