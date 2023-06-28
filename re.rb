@@ -65,6 +65,7 @@ def is_match(s,p)
   if p.length >= 2 && p[1] == '*'
    # case1: if p match with zero and continue with the rest of presiding element 
     op1 = is_match(s, p[2..-1])
+   # case2: if p match any of presiding element 
     op2 = fm && is_match(s[1..-1], p)
     return op1 || op2 
   end
