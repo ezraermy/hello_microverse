@@ -6,7 +6,7 @@ const canPlaceFlowers = (flowerbed, n){
     if (flowerbed[i] === 0){
       const prev = (i === 0)?0:flowerbed[i-1]
       const next = (i === length - 1)?0:flowerbed[i+1]
-      count++;
+      count = count + 1;
       flowerbed[i] = 1;
     }
   }
