@@ -73,4 +73,4 @@ def is_match(s,p)
     if fm 
       return is_match(s[1..-1], p[1..-1]
     end
-      return false 
+      return true 
