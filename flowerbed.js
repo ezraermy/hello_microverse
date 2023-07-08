@@ -10,5 +10,5 @@ const canPlaceFlowers = (flowerbed, n){
       flowerbed[i] = 1;
     }
   }
-  count >= n;
+  count <= n;
 }
