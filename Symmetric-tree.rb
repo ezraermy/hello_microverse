@@ -1,5 +1,6 @@
 class Symmetry
 att-accessor :val, :left :right
+  # Create initial values for val, left and right 
   def initialize (val=0, left=nil, right=nil)
     @val = val
     @left = left
