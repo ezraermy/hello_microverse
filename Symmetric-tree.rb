@@ -9,6 +9,7 @@ att-accessor :val, :left :right
   def is_symmerty(root)
     return true if root.nil?
   end
+  # Define mirror
   def is_mirror(left, right)
     return true if left.nil && right.nil?
     return false if left.nil || right.nil || left.val != right.val
