@@ -1,9 +1,10 @@
 #The two_sum function takes an array of integer nums and an integer target as input. 
+
 def two_sum(nums, target)
   num_map = {}
   #It iterates through the array, calculating the complement (the value needed to reach the target) 
+  #for each element. If the complement exists in the hash map, 
   for nums.each_with_index do |num, index|
-    #for each element. If the complement exists in the hash map, 
     #it means we have found the two numbers that add up to the target. 
     compliment = target - num
     if num_map.include?(compliment)
