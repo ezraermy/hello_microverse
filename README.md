@@ -39,7 +39,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+Find a coding challenge that allows you to train and practice solving problems.
 
 <!--
 Example command:
